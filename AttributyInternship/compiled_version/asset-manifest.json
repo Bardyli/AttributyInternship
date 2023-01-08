@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.115dd68a.css",
+    "main.js": "/static/js/main.b0824411.js",
+    "static/media/spacex-logo-black-and-white.png": "/static/media/spacex-logo-black-and-white.e548eb037fc1020f2f76.png",
+    "index.html": "/index.html",
+    "main.115dd68a.css.map": "/static/css/main.115dd68a.css.map",
+    "main.b0824411.js.map": "/static/js/main.b0824411.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.115dd68a.css",
+    "static/js/main.b0824411.js"
+  ]
+}
